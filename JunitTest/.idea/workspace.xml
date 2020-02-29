@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e6c0306-a685-4951-9b3f-70c1e23d0954" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YMDWGmFfaZ8E6k4noMAp0h0rNe" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/jdk-12.0.2_windows-x64_bin/jdk-12.0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyMath" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.techrevolution.junit.MyMath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techrevolution.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techrevolution.junit.MyMath" />
+      <module name="JunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techrevolution.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMath" />
+        <item itemvalue="Application.MyMath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6c0306-a685-4951-9b3f-70c1e23d0954" name="Default Changelist" comment="" />
+      <created>1582743599497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582743599497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="17" key="#MyMath_(1)" timestamp="1582743868813">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="399" y="17" key="#MyMath_(1)/62.0.1474.864@62.0.1474.864" timestamp="1582743868813" />
+    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582743901467">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1582743901467" />
+    <state x="466" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582743891949">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="466" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1474.864@62.0.1474.864" timestamp="1582743891949" />
+    <state x="342" y="116" key="FileChooserDialogImpl" timestamp="1582743838501">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="342" y="116" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1582743838501" />
+    <state x="152" y="0" key="SettingsEditor" timestamp="1582743854163">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="152" y="0" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1582743854163" />
+  </component>
+</project>

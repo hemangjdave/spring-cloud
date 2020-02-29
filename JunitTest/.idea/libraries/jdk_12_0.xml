@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-12.0">
+    <CLASSES>
+      <root url="file://C:/jdk-12.0.2_windows-x64_bin/jdk-12.0.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
